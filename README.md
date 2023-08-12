@@ -7,4 +7,4 @@ Odin Recipes is a food recipe website, through which I am demonstrating my abili
 * A pasta puttanesca recipe
 * A Swedish sticky chocolate cake recipe
 
-### Website available here: https://johndreedy.github.io/the-odin-project/odin-recipes/index.html
+### Website available here: https://johndreedy.github.io/odin-recipes/index.html
